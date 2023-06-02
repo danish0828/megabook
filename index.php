@@ -15,6 +15,24 @@
     <link rel="stylesheet" href="https://megabookwriting.com/assets/css/style.css">
     <link rel="canonical" href="https://megabookwriting.com" />
 </head>
+<style>
+    #moving-gradient {
+        width: 100%;
+        height: 200px;
+        background: linear-gradient(to right, #ff0000, #00ff00, #0000ff);
+        animation: move-gradient 5s linear infinite;
+    }
+
+    @keyframes move-gradient {
+        0% {
+            background-position: 0% 50%;
+        }
+
+        100% {
+            background-position: 100% 50%;
+        }
+    }
+</style>
 
 <body>
     <div class="content-wrapper">
@@ -952,7 +970,7 @@
     <!-- /footer -->
     <?php include 'assets/common/footer.php'; ?>
     <!-- /footer -->
-   
+
 </body>
 
 </html>
