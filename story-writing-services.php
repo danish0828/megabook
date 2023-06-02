@@ -48,7 +48,7 @@
                             <div class="col-md-5 offset-md-1 align-self-end">
                                 <div class="card bg-pale-yellow">
                                     <div class="card-body">
-                                        <a href="assets/gifs/1.html" width="52px" class="svg-inject icon-svg icon-svg-md text-yellow mb-3" alt="" />
+                                        <a href="https://megabookwriting.com/assets/img/icon-png/book.png" width="52px" class="svg-inject icon-svg icon-svg-md text-yellow mb-3" alt="" />
                                         <h4>Masters/Ph.D</h4>
                                         <p class="mb-0">English linguistics, English literature, Journalism, and relevant field.</p>
                                     </div>
