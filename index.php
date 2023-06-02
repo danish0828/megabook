@@ -15,31 +15,14 @@
     <link rel="stylesheet" href="https://megabookwriting.com/assets/css/style.css">
     <link rel="canonical" href="https://megabookwriting.com" />
 </head>
-<style>
-    #moving-gradient {
-        width: 100%;
-        height: 200px;
-        background: linear-gradient(to right, #ff0000, #00ff00, #0000ff);
-        animation: move-gradient 5s linear infinite;
-    }
 
-    @keyframes move-gradient {
-        0% {
-            background-position: 0% 50%;
-        }
-
-        100% {
-            background-position: 100% 50%;
-        }
-    }
-</style>
 
 <body>
     <div class="content-wrapper">
         <!-- /header -->
         <?php include 'assets/common/header.php'; ?>
         <!-- /header -->
-        <section class="wrapper image-wrapper bg-cover bg-image bg-xs-block bg-gray" id="moving-gradient" data-image-src="./assets/images/bg-hero.jpg">
+        <section class="wrapper image-wrapper bg-cover bg-image bg-xs-block bg-gray"  data-image-src="./assets/images/bg-hero.jpg">
             <div class="container pt-12 pb-15 py-sm-12 py-xxl-15">
                 <div class="row">
                     <div class="col-sm-12 col-xxl-7 col-lg-7 text-start">
