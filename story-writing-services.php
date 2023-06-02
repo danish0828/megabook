@@ -9,7 +9,7 @@
     <meta name="keywords" content="#">
     <meta name="author" content="elemis">
     <title>Narrate Your Fairy Tales with Us | Story Writers for Hire
-</title>
+    </title>
     <link rel="shortcut icon" href="https://megabookwriting.com/assets/img/favicon.png">
     <link rel="stylesheet" href="https://megabookwriting.com/assets/css/plugins.css">
     <link rel="stylesheet" href="https://megabookwriting.com/assets/css/style.css">
@@ -48,7 +48,8 @@
                             <div class="col-md-5 offset-md-1 align-self-end">
                                 <div class="card bg-pale-yellow">
                                     <div class="card-body">
-                                        <img src="https://megabookwriting.com/assets/img/icon-png/book.png" width="52px" class="svg-inject icon-svg icon-svg-md text-yellow mb-3" alt="" />
+                                        <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+                                        <lottie-player src="https://assets1.lottiefiles.com/packages/lf20_CyKUafgu5Y.json" background="transparent" speed="1" style="width: 50px; height: 50px;" loop autoplay></lottie-player>
                                         <h4>Masters/Ph.D</h4>
                                         <p class="mb-0">English linguistics, English literature, Journalism, and relevant field.</p>
                                     </div>
