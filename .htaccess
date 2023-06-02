@@ -12,3 +12,5 @@ RewriteRule ^ %{REQUEST_URI}.php [NC,L]
 	RewriteCond %{HTTP_HOST} ^www\.megabookwriting\.com [NC]
 	RewriteRule (.*) https://megabookwriting.com/$1 [L,R=301]
 </IfModule>
+ErrorDocument 404 /404.php
+
