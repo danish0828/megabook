@@ -615,7 +615,7 @@
                                         <div class="card">
                                             <div class="card-body">
                                                 <blockquote class="icon mb-0">
-                                                    <p>“There are so many platforms available now for content creation. We're lucky to have a partner in Mega Book Writing that enables us to move swiftly, trust their team to execute dependably, and publish top-notch material.
+                                                    <p>“I'm overjoyed with what the Mega team created for my author’s website. Working with them was simple, and they perfectly captured my vision. The best part is that it all came together quickly and was a painless experience all around.
                                                         ”</p>
                                                     <div class="blockquote-details">
                                                         <img class="rounded-circle w-12" src="./assets/img/avatars/te1.jpg" srcset="./assets/img/avatars/te1@2x.jpg 2x" alt="" />
@@ -638,7 +638,7 @@
                                         <div class="card">
                                             <div class="card-body">
                                                 <blockquote class="icon mb-0">
-                                                    <p>“Our experience has been outstanding. Mega ultimately produced great content that we are proud of in a timely manner. In addition, the communication has been really impressive. Mega always solves problems quickly and makes us feel like a priority.
+                                                    <p>“My new website from Mega is fantastic! It was a pleasure to work with the team. They took care of all the worry, and I appreciated how much of a say I had in the process. Even better than I had anticipated, my website came out. I heartily endorse them.
                                                         ”</p>
                                                     <div class="blockquote-details">
                                                         <img class="rounded-circle w-12" src="./assets/img/avatars/te2.jpg" srcset="./assets/img/avatars/te2@2x.jpg 2x" alt="" />
@@ -661,7 +661,7 @@
                                         <div class="card">
                                             <div class="card-body">
                                                 <blockquote class="icon mb-0">
-                                                    <p>“Mega Book Writing undoubtedly delivers top-notch quality content. The team is well structured and efficient and goes the extra mile to ensure a smooth working process. Their services are highly recommended to everyone.
+                                                    <p>“Megabook writing has been a joy to deal with. The crew was amiable, imaginative, considerate, and meticulous. They discussed my site's idea with me and beautifully brought it to life. I would absolutely recommend them and use them again in the future.
                                                         ”</p>
                                                     <div class="blockquote-details">
                                                         <img class="rounded-circle w-12" src="./assets/img/avatars/te3.jpg" srcset="./assets/img/avatars/te3@2x.jpg 2x" alt="" />
@@ -684,7 +684,7 @@
                                         <div class="card">
                                             <div class="card-body">
                                                 <blockquote class="icon mb-0">
-                                                    <p>“I wanted to start applying for employment when I graduated from college but had no idea how to make a formal resume. Mega provided me with a properly written resume, and I was able to start searching for jobs right away. Thank you so much.
+                                                    <p>“I have been delighted with the process, the communications, and the creativity. You are absolutely the best! Head and shoulders above any website person I’ve worked with! I love my new website. Thanks to you guys.
                                                         ”</p>
                                                     <div class="blockquote-details">
                                                         <img class="rounded-circle w-12" src="./assets/img/avatars/te4.jpg" srcset="./assets/img/avatars/te4@2x.jpg 2x" alt="" />
@@ -707,7 +707,7 @@
                                         <div class="card">
                                             <div class="card-body">
                                                 <blockquote class="icon mb-0">
-                                                    <p>“Working with Mega Book Writing has been an absolute pleasure; they are incredibly knowledgeable about article writing and executed my article well. 10/10 and strongly recommended.
+                                                    <p>“I could not have chosen better designers or a happier experience! I am getting many compliments on my new website design, and I am also getting new clients. I recommend you to everyone. Thank you for your service.
                                                         ”</p>
                                                     <div class="blockquote-details">
                                                         <img class="rounded-circle w-12" src="./assets/img/avatars/te5.jpg" srcset="./assets/img/avatars/te5@2x.jpg 2x" alt="" />
@@ -730,7 +730,7 @@
                                         <div class="card">
                                             <div class="card-body">
                                                 <blockquote class="icon mb-0">
-                                                    <p>“We've hired several writers for our content writing, but nothing like this has ever come up. They are not only professional but also wordsmiths. The best part is that they are well-versed in all content optimization strategies.”</p>
+                                                    <p>“Mega Boom Writing is an amazing company and I couldn’t be happier. I highly recommend them to anyone who is looking for a customized approach, a positive attitude, and dedication to quality web design. They are skilled at interpreting your needs and creating the website you always wanted.”</p>
                                                     <div class="blockquote-details">
                                                         <img class="rounded-circle w-12" src="./assets/img/avatars/te6.jpg" srcset="./assets/img/avatars/te6@2x.jpg 2x" alt="" />
                                                         <div class="info">
