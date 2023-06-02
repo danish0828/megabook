@@ -21,7 +21,7 @@
         <!-- /header -->
         <?php include 'assets/common/header.php'; ?>
         <!-- /header -->
-        <section class="wrapper image-wrapper bg-cover bg-image bg-xs-block bg-gray" id="floating-div" data-image-src="./assets/images/bg-hero.jpg">
+        <section class="wrapper image-wrapper bg-cover bg-image bg-xs-block bg-gray" data-image-src="./assets/images/bg-hero.jpg">
             <div class="container pt-12 pb-15 py-sm-12 py-xxl-15">
                 <div class="row">
                     <div class="col-sm-12 col-xxl-7 col-lg-7 text-start">
@@ -952,45 +952,7 @@
     <!-- /footer -->
     <?php include 'assets/common/footer.php'; ?>
     <!-- /footer -->
-    <script>
-        // Get the reference to the div element
-        var floatingDiv = document.getElementById('floating-div');
-
-        // Define the possible alphabets
-        var alphabets = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-
-        // Function to generate a random alphabet
-        function generateRandomAlphabet() {
-            var randomIndex = Math.floor(Math.random() * alphabets.length);
-            return alphabets[randomIndex];
-        }
-
-        // Function to create a floating alphabet element
-        function createFloatingAlphabet() {
-            var alphabet = generateRandomAlphabet();
-            var alphabetElement = document.createElement('span');
-            alphabetElement.textContent = alphabet;
-            alphabetElement.style.position = 'absolute';
-            alphabetElement.style.left = Math.random() * 100 + '%';
-            alphabetElement.style.top = Math.random() * 100 + '%';
-            alphabetElement.style.fontSize = Math.random() * 20 + 10 + 'px';
-            alphabetElement.style.color = '#' + Math.floor(Math.random() * 16777215).toString(16);
-            return alphabetElement;
-        }
-
-        // Function to continuously create floating alphabets
-        function floatAlphabets() {
-            var floatingAlphabet = createFloatingAlphabet();
-            floatingDiv.appendChild(floatingAlphabet);
-            setTimeout(function() {
-                floatingDiv.removeChild(floatingAlphabet);
-            }, 5000); // Remove the alphabet after 5 seconds
-            setTimeout(floatAlphabets, 1000); // Create a new alphabet every second
-        }
-
-        // Start creating floating alphabets
-        floatAlphabets();
-    </script>
+   
 </body>
 
 </html>
