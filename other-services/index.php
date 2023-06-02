@@ -277,7 +277,7 @@
                                 <a href="#" class="more hover link-pink mb-8">View Service</a>
                             </div>
                             <!--/.card-body -->
-                             <img class="card-img-bottom" src="../assets/images/books-1.png" srcset="../assets/images/books.png" alt="">
+                             <img class="card-img-bottom" src="../assets/images/books-1.png" srcset="../assets/images/books-1.png" alt="">
                         </div>
                         <!--/.card -->
                     </div>
@@ -296,7 +296,7 @@
                                 <a href="#" class="more hover link-leaf mb-8">View Service</a>
                             </div>
                             <!--/.card-body -->
-                             <img class="card-img-bottom" src="../assets/images/books-2.png" srcset="../assets/images/books.png" alt="">
+                             <img class="card-img-bottom" src="../assets/images/books-2.png" srcset="../assets/images/books-2.png" alt="">
                         </div>
                         <!--/.card -->
                     </div>
@@ -312,7 +312,7 @@
                                 <a href="#" class="more hover link-pink mb-8">View Service</a>
                             </div>
                             <!--/.card-body -->
-                             <img class="card-img-bottom" src="../assets/images/books-3.png" srcset="../assets/images/books.png" alt="">
+                             <img class="card-img-bottom" src="../assets/images/books-3.png" srcset="../assets/images/books-3.png" alt="">
                         </div>
                         <!--/.card -->
                     </div>
