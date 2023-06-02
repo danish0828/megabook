@@ -21,7 +21,7 @@
         <!-- /header -->
         <?php include 'assets/common/header.php'; ?>
         <!-- /header -->
-        <section class="wrapper image-wrapper bg-cover bg-image bg-xs-block bg-gray" data-image-src="./assets/images/bg-hero.jpg">
+        <section class="wrapper image-wrapper bg-cover bg-image bg-xs-block bg-gray" id="floating-div" data-image-src="./assets/images/bg-hero.jpg">
             <div class="container pt-12 pb-15 py-sm-12 py-xxl-15">
                 <div class="row">
                     <div class="col-sm-12 col-xxl-7 col-lg-7 text-start">
@@ -377,7 +377,7 @@
             </div>
             <!-- /.container -->
         </section>
-        <section class="wrapper bg-white" >
+        <section class="wrapper bg-white">
             <div class="container py-10 py-md-10">
                 <div class="row gy-10 gy-sm-13 gx-md-8 gx-xl-12 align-items-center mb-10 mb-md-12">
                     <div class="col-lg-6">
@@ -481,7 +481,7 @@
                         <h2 class="fs-15 text-uppercase text-muted mb-3 text-light">Portfolio</h2>
                         <h3 class="display-4 mb-10 text-light">Some of Our Recent Works</h3>
                         <p class="text-light">We’ve established a huge portfolio over the years and have delivered flawless projects to our valued customers. Every ghost writer in our agency stands out for being creative, intellectual, skilled, and experienced, Check out our previous work!
-</p>
+                        </p>
                     </div>
                     <!-- /column -->
                 </div>
@@ -492,7 +492,7 @@
                 <div class="swiper-container blog grid-view mb-8 mb-md-8" data-margin="30" data-nav="true" data-dots="false" data-items-xxl="6" data-items-md="4" data-items-xs="2">
                     <div class="swiper">
                         <div class="swiper-wrapper">
-                            
+
                             <!--/.swiper-slide -->
                             <div class="swiper-slide">
                                 <figure class="rounded"><img src="https://megabookwriting.com/assets/img/photos/bk5.webp" alt="" /></figure>
@@ -506,23 +506,23 @@
                                 <figure class="rounded"><img src="https://megabookwriting.com/assets/img/photos/book1.webp" alt="" /></figure>
                             </div>
                             <!--/.swiper-slide -->
-                             <!--/.swiper-slide -->
-                             <div class="swiper-slide">
+                            <!--/.swiper-slide -->
+                            <div class="swiper-slide">
                                 <figure class="rounded"><img src="https://megabookwriting.com/assets/img/photos/book2.webp" alt="" /></figure>
                             </div>
                             <!--/.swiper-slide -->
-                             <!--/.swiper-slide -->
-                             <div class="swiper-slide">
+                            <!--/.swiper-slide -->
+                            <div class="swiper-slide">
                                 <figure class="rounded"><img src="https://megabookwriting.com/assets/img/photos/book3.webp" alt="" /></figure>
                             </div>
                             <!--/.swiper-slide -->
-                             <!--/.swiper-slide -->
-                             <div class="swiper-slide">
+                            <!--/.swiper-slide -->
+                            <div class="swiper-slide">
                                 <figure class="rounded"><img src="https://megabookwriting.com/assets/img/photos/book4.webp" alt="" /></figure>
                             </div>
                             <!--/.swiper-slide -->
-                             <!--/.swiper-slide -->
-                             <div class="swiper-slide">
+                            <!--/.swiper-slide -->
+                            <div class="swiper-slide">
                                 <figure class="rounded"><img src="https://megabookwriting.com/assets/img/photos/book5.webp" alt="" /></figure>
                             </div>
                             <!--/.swiper-slide -->
@@ -952,6 +952,45 @@
     <!-- /footer -->
     <?php include 'assets/common/footer.php'; ?>
     <!-- /footer -->
+    <script>
+        // Get the reference to the div element
+        var floatingDiv = document.getElementById('floating-div');
+
+        // Define the possible alphabets
+        var alphabets = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+
+        // Function to generate a random alphabet
+        function generateRandomAlphabet() {
+            var randomIndex = Math.floor(Math.random() * alphabets.length);
+            return alphabets[randomIndex];
+        }
+
+        // Function to create a floating alphabet element
+        function createFloatingAlphabet() {
+            var alphabet = generateRandomAlphabet();
+            var alphabetElement = document.createElement('span');
+            alphabetElement.textContent = alphabet;
+            alphabetElement.style.position = 'absolute';
+            alphabetElement.style.left = Math.random() * 100 + '%';
+            alphabetElement.style.top = Math.random() * 100 + '%';
+            alphabetElement.style.fontSize = Math.random() * 20 + 10 + 'px';
+            alphabetElement.style.color = '#' + Math.floor(Math.random() * 16777215).toString(16);
+            return alphabetElement;
+        }
+
+        // Function to continuously create floating alphabets
+        function floatAlphabets() {
+            var floatingAlphabet = createFloatingAlphabet();
+            floatingDiv.appendChild(floatingAlphabet);
+            setTimeout(function() {
+                floatingDiv.removeChild(floatingAlphabet);
+            }, 5000); // Remove the alphabet after 5 seconds
+            setTimeout(floatAlphabets, 1000); // Create a new alphabet every second
+        }
+
+        // Start creating floating alphabets
+        floatAlphabets();
+    </script>
 </body>
 
 </html>
