@@ -261,7 +261,7 @@
                                 <a href="#" class="more hover link-leaf mb-8">View Service</a>
                             </div>
                             <!--/.card-body -->
-                            <img class="card-img-bottom" src="https://megabookwriting.com/assets/img/photo-opt/books.png" srcset="https://megabookwriting.com/assets/img/photo-opt/books.png" alt="">
+                             <img class="card-img-bottom" src="../assets/images/books.png" srcset="../assets/images/books.png" alt="">
                         </div>
                         <!--/.card -->
                     </div>
@@ -277,7 +277,7 @@
                                 <a href="#" class="more hover link-pink mb-8">View Service</a>
                             </div>
                             <!--/.card-body -->
-                            <img class="card-img-bottom" src="https://megabookwriting.com/assets/img/photo-opt/books.png" srcset="https://megabookwriting.com/assets/img/photo-opt/books.png" alt="">
+                             <img class="card-img-bottom" src="../assets/images/books.png" srcset="../assets/images/books.png" alt="">
                         </div>
                         <!--/.card -->
                     </div>
@@ -296,7 +296,7 @@
                                 <a href="#" class="more hover link-leaf mb-8">View Service</a>
                             </div>
                             <!--/.card-body -->
-                            <img class="card-img-bottom" src="https://megabookwriting.com/assets/img/photo-opt/books.png" srcset="https://megabookwriting.com/assets/img/photo-opt/books.png" alt="">
+                             <img class="card-img-bottom" src="../assets/images/books.png" srcset="../assets/images/books.png" alt="">
                         </div>
                         <!--/.card -->
                     </div>
@@ -312,7 +312,7 @@
                                 <a href="#" class="more hover link-pink mb-8">View Service</a>
                             </div>
                             <!--/.card-body -->
-                            <img class="card-img-bottom" src="https://megabookwriting.com/assets/img/photo-opt/books.png" srcset="https://megabookwriting.com/assets/img/photo-opt/books.png" alt="">
+                             <img class="card-img-bottom" src="../assets/images/books.png" srcset="../assets/images/books.png" alt="">
                         </div>
                         <!--/.card -->
                     </div>
