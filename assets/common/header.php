@@ -1,6 +1,7 @@
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+<link rel="stylesheet" href="../css/custom-style.css" />
 <header class="wrapper">
     <nav class="navbar navbar-expand-lg classic navbar-light navbar-bg-light">
         <div class="container flex-lg-row flex-nowrap align-items-center">

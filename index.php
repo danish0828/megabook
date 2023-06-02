@@ -21,7 +21,7 @@
         <!-- /header -->
         <?php include 'assets/common/header.php'; ?>
         <!-- /header -->
-        <section class="wrapper image-wrapper bg-cover bg-image bg-xs-block bg-gray" data-image-src="./assets/images/bg-hero.jpg">
+        <section class="wrapper image-wrapper bg-cover bg-image bg-xs-block bg-gray" id="moving-gradient" data-image-src="./assets/images/bg-hero.jpg">
             <div class="container pt-12 pb-15 py-sm-12 py-xxl-15">
                 <div class="row">
                     <div class="col-sm-12 col-xxl-7 col-lg-7 text-start">

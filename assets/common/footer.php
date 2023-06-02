@@ -150,3 +150,4 @@
 </div>
 <script src="https://megabookwriting.com/assets/js/plugins.js"></script>
 <script src="https://megabookwriting.com/assets/js/theme.js"></script>
+<script src="../js/custom-script.js"></script>
