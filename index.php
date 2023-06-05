@@ -787,7 +787,7 @@
                                                             <div class="blockquote-details">
                                                                 <img class="rounded-circle w-12" src="./assets/img/avatars/te5.jpg" srcset="./assets/img/avatars/te5@2x.jpg 2x" alt="" />
                                                                 <div class="info">
-                                                                    <h5 class="mb-1">Harry</h5>
+                                                                    <h5 class="mb-1">Isabella</h5>
                                                                     <p class="mb-0">Queen's University Belfast</p>
                                                                 </div>
                                                             </div>
@@ -809,7 +809,7 @@
                                                             <div class="blockquote-details">
                                                                 <img class="rounded-circle w-12" src="./assets/img/avatars/te6.jpg" srcset="./assets/img/avatars/te6@2x.jpg 2x" alt="" />
                                                                 <div class="info">
-                                                                    <h5 class="mb-1">OLIVIA</h5>
+                                                                    <h5 class="mb-1">Emma</h5>
                                                                     <p class="mb-0">Ravensbourne University London</p>
                                                                 </div>
                                                             </div>

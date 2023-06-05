@@ -317,7 +317,7 @@
                     <div class="card">
                       <div class="card-body">
                         <img class="rounded-circle w-15 mb-4" src="./assets/img/avatars/te4.jpg" srcset="./assets/img/avatars/te4@2x.jpg 2x" alt="" />
-                        <h4 class="mb-1">Jackie Sanders</h4>
+                        <h4 class="mb-1">Queen's University Belfast</h4>
                         <div class="meta mb-2">Investment Planner</div>
                         <p class="mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
                         <nav class="nav social mb-0">
@@ -339,8 +339,8 @@
                     <div class="card">
                       <div class="card-body">
                         <img class="rounded-circle w-15 mb-4" src="./assets/img/avatars/te5.jpg" srcset="./assets/img/avatars/te5@2x.jpg 2x" alt="" />
-                        <h4 class="mb-1">Laura Widerski</h4>
-                        <div class="meta mb-2">Sales Specialist</div>
+                        <h4 class="mb-1">Emma</h4>
+                        <div class="meta mb-2">Ravensbourne University London</div>
                         <p class="mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
                         <nav class="nav social mb-0">
                           <a href="#"><i class="uil uil-twitter"></i></a>

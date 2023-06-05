@@ -717,7 +717,7 @@
                                                     <div class="blockquote-details">
                                                         <img class="rounded-circle w-12" src="./assets/img/avatars/te4.jpg" srcset="./assets/img/avatars/te4@2x.jpg 2x" alt="" />
                                                         <div class="info">
-                                                            <h5 class="mb-1">Harrison</h5>
+                                                            <h5 class="mb-1">Ava</h5>
                                                             <p class="mb-0">University of Liverpool</p>
                                                         </div>
                                                     </div>
@@ -740,7 +740,7 @@
                                                     <div class="blockquote-details">
                                                         <img class="rounded-circle w-12" src="./assets/img/avatars/te5.jpg" srcset="./assets/img/avatars/te5@2x.jpg 2x" alt="" />
                                                         <div class="info">
-                                                            <h5 class="mb-1">Jackie Sanders</h5>
+                                                            <h5 class="mb-1">Queen's University Belfast</h5>
                                                             <p class="mb-0">Investment Planner</p>
                                                         </div>
                                                     </div>
@@ -762,8 +762,8 @@
                                                     <div class="blockquote-details">
                                                         <img class="rounded-circle w-12" src="./assets/img/avatars/te6.jpg" srcset="./assets/img/avatars/te6@2x.jpg 2x" alt="" />
                                                         <div class="info">
-                                                            <h5 class="mb-1">Laura Widerski</h5>
-                                                            <p class="mb-0">Sales Specialist</p>
+                                                            <h5 class="mb-1">Emma</h5>
+                                                            <p class="mb-0">Ravensbourne University London</p>
                                                         </div>
                                                     </div>
                                                 </blockquote>
