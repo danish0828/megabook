@@ -765,7 +765,7 @@
                                                             <div class="blockquote-details">
                                                                 <img class="rounded-circle w-12" src="./assets/img/avatars/te4.jpg" srcset="./assets/img/avatars/te4@2x.jpg 2x" alt="" />
                                                                 <div class="info">
-                                                                    <h5 class="mb-1">Morgen</h5>
+                                                                    <h5 class="mb-1">Ava</h5>
                                                                     <p class="mb-0">Queen Margaret University</p>
                                                                 </div>
                                                             </div>

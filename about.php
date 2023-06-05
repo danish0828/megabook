@@ -196,8 +196,8 @@
                       <p>“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper. Cras justo odio consectetur adipiscing dapibus curabitur blandit.”</p>
                       <div class="blockquote-details">
                         <div class="info ps-0">
-                          <h5 class="mb-1">Cory Zamora</h5>
-                          <p class="mb-0">Marketing Specialist</p>
+                          <h5 class="mb-1">Komi</h5>
+                          <p class="mb-0">University of London</p>
                         </div>
                       </div>
                     </blockquote>
@@ -208,8 +208,8 @@
                       <p>“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper. Cras justo odio consectetur adipiscing dapibus curabitur blandit.”</p>
                       <div class="blockquote-details">
                         <div class="info ps-0">
-                          <h5 class="mb-1">Nikolas Brooten</h5>
-                          <p class="mb-0">Sales Manager</p>
+                          <h5 class="mb-1">Naira Bolan</h5>
+                          <p class="mb-0">University of London</p>
                         </div>
                       </div>
                     </blockquote>
@@ -273,8 +273,8 @@
                     <div class="card">
                       <div class="card-body">
                         <img class="rounded-circle w-15 mb-4" src="./assets/img/avatars/te2.jpg" srcset="./assets/img/avatars/te2@2x.jpg 2x" alt="" />
-                        <h4 class="mb-1">Cory Zamora</h4>
-                        <div class="meta mb-2">Marketing Specialist</div>
+                        <h4 class="mb-1">Komi</h4>
+                        <div class="meta mb-2">University of London</div>
                         <p class="mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
                         <nav class="nav social mb-0">
                           <a href="#"><i class="uil uil-twitter"></i></a>
@@ -295,8 +295,8 @@
                     <div class="card">
                       <div class="card-body">
                         <img class="rounded-circle w-15 mb-4" src="./assets/img/avatars/te3.jpg" srcset="./assets/img/avatars/te3@2x.jpg 2x" alt="" />
-                        <h4 class="mb-1">Nikolas Brooten</h4>
-                        <div class="meta mb-2">Sales Manager</div>
+                        <h4 class="mb-1">Naira Bolan</h4>
+                        <div class="meta mb-2">University of London</div>
                         <p class="mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
                         <nav class="nav social mb-0">
                           <a href="#"><i class="uil uil-twitter"></i></a>

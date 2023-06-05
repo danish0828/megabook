@@ -741,8 +741,8 @@
                                     <p>“Fusce dapibus, tellus ac cursus tortor mauris condimentum fermentum massa justo sit amet purus sit amet fermentum.”</p>
                                     <div class="blockquote-details">
                                         <div class="info ps-0">
-                                            <h5 class="mb-1">Cory Zamora</h5>
-                                            <p class="mb-0">Marketing Specialist</p>
+                                            <h5 class="mb-1">Komi</h5>
+                                            <p class="mb-0">University of London</p>
                                         </div>
                                     </div>
                                 </blockquote>
@@ -759,8 +759,8 @@
                                     <p>“Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor eu rutrum. Nulla vitae libero.”</p>
                                     <div class="blockquote-details">
                                         <div class="info ps-0">
-                                            <h5 class="mb-1">Nikolas Brooten</h5>
-                                            <p class="mb-0">Sales Manager</p>
+                                            <h5 class="mb-1">Naira Bolan</h5>
+                                            <p class="mb-0">University of London</p>
                                         </div>
                                     </div>
                                 </blockquote>

@@ -437,8 +437,8 @@
                                                     <div class="blockquote-details">
                                                         <img class="rounded-circle w-12" src="https://megabookwriting.com/assets/img/avatars/te2.jpg" srcset="https://megabookwriting.com/assets/img/avatars/te2@2x.jpg 2x" alt="" />
                                                         <div class="info">
-                                                            <h5 class="mb-1">Cory Zamora</h5>
-                                                            <p class="mb-0">Marketing Specialist</p>
+                                                            <h5 class="mb-1">Komi</h5>
+                                                            <p class="mb-0">University of London</p>
                                                         </div>
                                                     </div>
                                                 </blockquote>
@@ -460,8 +460,8 @@
                                                     <div class="blockquote-details">
                                                         <img class="rounded-circle w-12" src="https://megabookwriting.com/assets/img/avatars/te3.jpg" srcset="https://megabookwriting.com/assets/img/avatars/te3@2x.jpg 2x" alt="" />
                                                         <div class="info">
-                                                            <h5 class="mb-1">Nikolas Brooten</h5>
-                                                            <p class="mb-0">Sales Manager</p>
+                                                            <h5 class="mb-1">Naira Bolan</h5>
+                                                            <p class="mb-0">University of London</p>
                                                         </div>
                                                     </div>
                                                 </blockquote>
