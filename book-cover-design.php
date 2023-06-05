@@ -761,8 +761,8 @@ Contact us to hire our designers.
                                                     <div class="blockquote-details">
                                                         <img class="rounded-circle w-12" src="./assets/img/avatars/te5.jpg" srcset="./assets/img/avatars/te5@2x.jpg 2x" alt="" />
                                                         <div class="info">
-                                                            <h5 class="mb-1">Queen's University Belfast</h5>
-                                                            <p class="mb-0">Investment Planner</p>
+                                                            <h5 class="mb-1">Isabella</h5>
+                                                            <p class="mb-0">Queen's University Belfast</p>
                                                         </div>
                                                     </div>
                                                 </blockquote>

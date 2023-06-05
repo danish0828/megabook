@@ -317,8 +317,8 @@
                     <div class="card">
                       <div class="card-body">
                         <img class="rounded-circle w-15 mb-4" src="./assets/img/avatars/te4.jpg" srcset="./assets/img/avatars/te4@2x.jpg 2x" alt="" />
-                        <h4 class="mb-1">Queen's University Belfast</h4>
-                        <div class="meta mb-2">Investment Planner</div>
+                        <h4 class="mb-1">Isabella</h4>
+                        <div class="meta mb-2">Queen's University Belfast</div>
                         <p class="mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
                         <nav class="nav social mb-0">
                           <a href="#"><i class="uil uil-twitter"></i></a>
