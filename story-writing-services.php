@@ -554,8 +554,8 @@
                                                     <div class="blockquote-details">
                                                         <img class="rounded-circle w-12" src="./assets/img/avatars/te1.jpg" srcset="./assets/img/avatars/te1@2x.jpg 2x" alt="" />
                                                         <div class="info">
-                                                            <h5 class="mb-1">Coriss Ambady</h5>
-                                                            <p class="mb-0">Financial Analyst</p>
+                                                            <h5 class="mb-1">Harrison</h5>
+                                                            <p class="mb-0">University of Liverpool</p>
                                                         </div>
                                                     </div>
                                                 </blockquote>
@@ -623,8 +623,8 @@
                                                     <div class="blockquote-details">
                                                         <img class="rounded-circle w-12" src="./assets/img/avatars/te4.jpg" srcset="./assets/img/avatars/te4@2x.jpg 2x" alt="" />
                                                         <div class="info">
-                                                            <h5 class="mb-1">Coriss Ambady</h5>
-                                                            <p class="mb-0">Financial Analyst</p>
+                                                            <h5 class="mb-1">Harrison</h5>
+                                                            <p class="mb-0">University of Liverpool</p>
                                                         </div>
                                                     </div>
                                                 </blockquote>

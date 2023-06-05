@@ -723,8 +723,8 @@
                                     <p>“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta. Cras mattis consectetur.”</p>
                                     <div class="blockquote-details">
                                         <div class="info ps-0">
-                                            <h5 class="mb-1">Coriss Ambady</h5>
-                                            <p class="mb-0">Financial Analyst</p>
+                                            <h5 class="mb-1">Harrison</h5>
+                                            <p class="mb-0">University of Liverpool</p>
                                         </div>
                                     </div>
                                 </blockquote>
@@ -777,8 +777,8 @@
                                     <p>“Etiam adipiscing tincidunt elit convallis felis suscipit ut. Phasellus rhoncus eu tincidunt auctor nullam rutrum, pharetra augue.”</p>
                                     <div class="blockquote-details">
                                         <div class="info ps-0">
-                                            <h5 class="mb-1">Coriss Ambady</h5>
-                                            <p class="mb-0">Financial Analyst</p>
+                                            <h5 class="mb-1">Harrison</h5>
+                                            <p class="mb-0">University of Liverpool</p>
                                         </div>
                                     </div>
                                 </blockquote>

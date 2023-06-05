@@ -184,8 +184,8 @@
                       <p>“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper. Cras justo odio consectetur nulla dapibus curabitur blandit.”</p>
                       <div class="blockquote-details">
                         <div class="info ps-0">
-                          <h5 class="mb-1">Coriss Ambady</h5>
-                          <p class="mb-0">Financial Analyst</p>
+                          <h5 class="mb-1">Harrison</h5>
+                          <p class="mb-0">University of Liverpool</p>
                         </div>
                       </div>
                     </blockquote>
@@ -251,8 +251,8 @@
                     <div class="card">
                       <div class="card-body">
                         <img class="rounded-circle w-15 mb-4" src="./assets/img/avatars/te1.jpg" srcset="./assets/img/avatars/te1@2x.jpg 2x" alt="" />
-                        <h4 class="mb-1">Coriss Ambady</h4>
-                        <div class="meta mb-2">Financial Analyst</div>
+                        <h4 class="mb-1">Harrison</h4>
+                        <div class="meta mb-2">University of Liverpool</div>
                         <p class="mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
                         <nav class="nav social mb-0">
                           <a href="#"><i class="uil uil-twitter"></i></a>
@@ -362,7 +362,7 @@
                       <div class="card-body">
                         <img class="rounded-circle w-15 mb-4" src="./assets/img/avatars/te6.jpg" srcset="./assets/img/avatars/te6@2x.jpg 2x" alt="" />
                         <h4 class="mb-1">Tina Geller</h4>
-                        <div class="meta mb-2">Financial Analyst</div>
+                        <div class="meta mb-2">University of Liverpool</div>
                         <p class="mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
                         <nav class="nav social mb-0">
                           <a href="#"><i class="uil uil-twitter"></i></a>
